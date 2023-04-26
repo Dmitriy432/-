@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\УП\УП\bin\Debug\УП.exe
+C:\Users\user\Desktop\УП\УП\bin\Debug\УП.pdb
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.Form1.resources
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.Form2.resources
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.Properties.Resources.resources
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.csproj.GenerateResource.cache
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.exe
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.pdb
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.Form3.resources
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.Form4.resources
+C:\Users\user\Desktop\УП\УП\bin\Debug\УП.exe.config
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.Form5.resources
+C:\Users\user\Desktop\УП\УП\obj\Debug\УП.Form6.resources
